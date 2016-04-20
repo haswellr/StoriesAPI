@@ -8,6 +8,7 @@ The exercise was completed in NodeJS with Express. It connects to a MySQL server
 Make sure you have node and npm installed and on your command line. Use the following commands to grab dependencies and then start the server:
 
 npm install
+
 node app.js
 
 The server will start at port 3000, which can be configured in 'config.js'. Navigate to http://localhost:3000 which will provide a link to view the list of stories being served.
